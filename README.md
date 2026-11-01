@@ -15,6 +15,7 @@
 | 04.1 | [初中物理AI教学实操手册](./04_Teacher_Toolkit_Physics.md) ⭐️ | 五步公式、配图、互动网页、防代写 |
 | 05 | [大创项目与运营报告](./05_Startup_Operations.md) | 大创总结、财税避坑、获客策略 |
 | 06 | [踩坑报错与经验复盘](./06_Lessons_Learned.md) | 技术坑、运营坑、教育红线 |
+| 07 | [大模型RAG与Agent学习笔记](./07_Learning_Notes/README.md) 🆕 | RAG全链路、ReAct智能体、工程化经验 |
 
 ---
 

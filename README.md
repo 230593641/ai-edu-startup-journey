@@ -17,6 +17,7 @@
 | 06 | [踩坑报错与经验复盘](./06_Lessons_Learned.md) | 技术坑、运营坑、教育红线 |
 | 07 | [大模型RAG与Agent学习笔记](./07_Learning_Notes/README.md) 🆕 | RAG全链路、ReAct智能体、工程化经验 |
 | 08 | [B端API集成避坑指南](./08_B2B_API_Integration_Pitfalls.md) | 接口商务、MCP适配、提示词边界、降级预案 |
+| 09 | [B端产品商业扩展战略](./09_B2B_Product_Expansion_Strategy.md) | 四大场景、阶梯定价、进校策略 |
 
 ---
 

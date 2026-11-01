@@ -4,7 +4,8 @@
 * [01-商业模式与战略规划](./01_Business_Strategy.md)
 * [02-技术架构与核心提示词](./02_Tech_Architecture_Prompts.md)
 * [03-小红书运营与获客SOP](./03_Marketing_SOP.md)
-* [04-一线教研交付方案](./04_Edu_Delivery.md)
+* [04-一线教研交付方案（总览）](./04_Edu_Delivery.md)
+* [04.1-初中物理AI教学实操手册（极详细版）](./04_Teacher_Toolkit_Physics.md) ⭐️最新
 * [05-大创项目与运营报告](./05_Startup_Operations.md)
 * [06-踩坑、报错与经验复盘](./06_Lessons_Learned.md)
 ## 💡 项目核心定位

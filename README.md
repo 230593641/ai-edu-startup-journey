@@ -16,6 +16,7 @@
 | 05 | [大创项目与运营报告](./05_Startup_Operations.md) | 大创总结、财税避坑、获客策略 |
 | 06 | [踩坑报错与经验复盘](./06_Lessons_Learned.md) | 技术坑、运营坑、教育红线 |
 | 07 | [大模型RAG与Agent学习笔记](./07_Learning_Notes/README.md) 🆕 | RAG全链路、ReAct智能体、工程化经验 |
+| 08 | [B端API集成避坑指南](./08_B2B_API_Integration_Pitfalls.md) | 接口商务、MCP适配、提示词边界、降级预案 |
 
 ---
 

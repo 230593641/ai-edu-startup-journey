@@ -18,6 +18,7 @@
 | 07 | [大模型RAG与Agent学习笔记](./07_Learning_Notes/README.md) 🆕 | RAG全链路、ReAct智能体、工程化经验 |
 | 08 | [B端API集成避坑指南](./08_B2B_API_Integration_Pitfalls.md) | 接口商务、MCP适配、提示词边界、降级预案 |
 | 09 | [B端产品商业扩展战略](./09_B2B_Product_Expansion_Strategy.md) | 四大场景、阶梯定价、进校策略 |
+| 10 | [小红书高转化笔记SOP](./10_Xiaohongshu_Note_SOP.md) | 2026爆款拆解、PCPC结构、合规转化 |
 
 ---
 

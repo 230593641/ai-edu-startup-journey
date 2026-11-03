@@ -19,6 +19,7 @@
 | 08 | [B端API集成避坑指南](./08_B2B_API_Integration_Pitfalls.md) | 接口商务、MCP适配、提示词边界、降级预案 |
 | 09 | [B端产品商业扩展战略](./09_B2B_Product_Expansion_Strategy.md) | 四大场景、阶梯定价、进校策略 |
 | 10 | [小红书高转化笔记SOP](./10_Xiaohongshu_Note_SOP.md) | 2026爆款拆解、PCPC结构、合规转化 |
+| 11 | [实战案例：校园社区智能体](./11_Campus_Community_Agent_Case.md) | Cloudflare Pages+豆包、7大踩坑、可复用经验 |
 
 ---
 

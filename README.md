@@ -21,6 +21,7 @@
 | 10 | [小红书高转化笔记SOP](./10_Xiaohongshu_Note_SOP.md) | 2026爆款拆解、PCPC结构、合规转化 |
 | 11 | [实战案例：校园社区智能体](./11_Campus_Community_Agent_Case.md) | Cloudflare Pages+豆包、7大踩坑、可复用经验 |
 | 12 | [斯坦福AI Agents课程笔记](./12_Stanford_AI_Agents_Course_Notes.md) | 四大工程支柱、自我进化闭环、常驻长时任务 |
+| 13 | [智能体工程实战手册](./13_Agent_Engineering_Playbook.md) 🆕 | 换脑实测、上下文经济学、工具按需加载、常驻自愈、评估清单 |
 
 ---
 

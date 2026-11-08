@@ -19,9 +19,12 @@
 | 08 | [B端API集成避坑指南](./08_B2B_API_Integration_Pitfalls.md) | 接口商务、MCP适配、提示词边界、降级预案 |
 | 09 | [B端产品商业扩展战略](./09_B2B_Product_Expansion_Strategy.md) | 四大场景、阶梯定价、进校策略 |
 | 10 | [小红书高转化笔记SOP](./10_Xiaohongshu_Note_SOP.md) | 2026爆款拆解、PCPC结构、合规转化 |
+| 10.1 | [斯坦福AI智能体课程2026更新笔记](./10_Stanford_AI_Agents_Update_2026.md) 🆕 | 三轴正交定位、TTCS与鲁棒验证、记忆失效、多体判据、Harness成熟度、5问自检 |
 | 11 | [实战案例：校园社区智能体](./11_Campus_Community_Agent_Case.md) | Cloudflare Pages+豆包、7大踩坑、可复用经验 |
-| 12 | [斯坦福AI Agents课程笔记](./12_Stanford_AI_Agents_Course_Notes.md) | 四大工程支柱、自我进化闭环、常驻长时任务 |
+| 12 | [斯坦福AI Agents课程笔记](./12_Stanford_AI_Agents_Course_Notes.md) | 四大工程支柱、自我进化闭环、常驻长时任务（概念版） |
 | 13 | [智能体工程实战手册](./13_Agent_Engineering_Playbook.md) 🆕 | 换脑实测、上下文经济学、工具按需加载、常驻自愈、评估清单 |
+
+> **10.1 与 12 的关系**：12 号文档做"概念对齐"，10.1 号文档做"架构决策与验收标准"（TTCS 预算调度、验证器判别力、记忆失效路径、多智能体准入四问、Harness 成熟度 L0–L4）；两者配合阅读，先看 12 再读 10.1。
 
 ---
 

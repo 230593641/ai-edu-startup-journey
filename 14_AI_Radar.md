@@ -270,6 +270,8 @@ A1b 值得单独记一笔：泄露发生在**出站请求头**，既不是文件
 2. 用浏览器打开 `beian.cac.gov.cn`，把"生成式 AI / 算法 / 深度合成"三类的填报要素抄成清单。
 3. 用官方 Search/Fetch API 替换现有情报源拼装（若 Key 就位）。
 4. 追踪 Claude Code #107757 是否关闭；确认 Postman 关闭 issue 后是否真的回滚了自动安装。
+5. **Harness / 智能体框架增量扫描**（本周该维度欠账）：扫 GitHub `topic:mcp`、`topic:llm-agents` 近 30 天新项目 + HN agent 相关讨论，只留能改你架构决策的。
+6. **Kimi K3.1 Pro 权重核实**：本机 HF 不可达，改用 `api.github.com` 找镜像仓库或社区评测，仍未核实就保持 🟡（禁止升级为可引用结论）。
 
 ---
 

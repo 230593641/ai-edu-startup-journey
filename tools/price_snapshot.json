@@ -1,0 +1,50 @@
+﻿[
+    {
+        "id":  "anthropic/claude-fable-5.2",
+        "ctx":  1000000,
+        "inp":  8,
+        "out":  40
+    },
+    {
+        "id":  "anthropic/claude-fable-5.2:batch",
+        "ctx":  1000000,
+        "inp":  4,
+        "out":  20
+    },
+    {
+        "id":  "anthropic/claude-opus-5.5",
+        "ctx":  1000000,
+        "inp":  4,
+        "out":  20
+    },
+    {
+        "id":  "anthropic/claude-opus-5.5:batch",
+        "ctx":  1000000,
+        "inp":  2,
+        "out":  10
+    },
+    {
+        "id":  "deepseek/deepseek-v4.1-flash-1017",
+        "ctx":  1048576,
+        "inp":  0.15,
+        "out":  0.6
+    },
+    {
+        "id":  "deepseek/deepseek-v4.1-flash-1017:batch",
+        "ctx":  1048576,
+        "inp":  0.037,
+        "out":  0.33
+    },
+    {
+        "id":  "deepseek/deepseek-v4-pro-0813",
+        "ctx":  1048576,
+        "inp":  0.111,
+        "out":  4.44
+    },
+    {
+        "id":  "qwen/qwen4-max",
+        "ctx":  1000000,
+        "inp":  1.5,
+        "out":  4.5
+    }
+]
